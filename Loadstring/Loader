@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scowscripts/ScowHub/main/Main/MainScript",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scowscripts/ScowHub/main/Main/Main/Script",true))()
