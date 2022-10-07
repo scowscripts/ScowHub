@@ -1,1 +1,12 @@
+--[[
+Made by:
+  __   _   _          
+ (_ ` / ` / ) \  X  / 
+.__) (_. (_/   \/ \/  
+
+on Scriptblox.com! 
+--]]
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/scowscripts/ScowHub/main/Main/Main/Script",true))()
+
+-- Thank you for using my script! All love from me!
